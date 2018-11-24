@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{14035603-D142-4FE9-9BB1-7548FEB74F62}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>wkt</RootNamespace>
+    <AssemblyName>wkt</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="DotSpatial.Analysis, Version=1.9.0.0, Culture=neutral, PublicKeyToken=df3f45fb0fe4cb0c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Analysis\obj\Debug\DotSpatial.Analysis.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Compatibility">
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Compatibility\obj\Debug\DotSpatial.Compatibility.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Controls, Version=1.9.0.0, Culture=neutral, PublicKeyToken=4d9e49339a7d240c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Controls\obj\Debug\DotSpatial.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Data, Version=1.9.0.0, Culture=neutral, PublicKeyToken=c29dbf30e059ca9d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Data\obj\Debug\DotSpatial.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Data.Forms, Version=1.9.0.0, Culture=neutral, PublicKeyToken=53ab5a198378d4c1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Data.Forms\obj\Debug\DotSpatial.Data.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Extensions, Version=1.9.0.0, Culture=neutral, PublicKeyToken=4d9e49339a7d240c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Extensions\obj\Debug\DotSpatial.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Modeling.Forms, Version=1.9.0.0, Culture=neutral, PublicKeyToken=712bef29a31a9354, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Modeling.Forms\obj\Debug\DotSpatial.Modeling.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Mono">
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Mono\obj\Debug\DotSpatial.Mono.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Plugins.FindFeature, Version=1.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Plugins.FindFeature\obj\Debug\DotSpatial.Plugins.FindFeature.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Plugins.Measure, Version=1.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Plugins.Measure\obj\Debug\DotSpatial.Plugins.Measure.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Plugins.ShapeEditor, Version=1.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Plugins.ShapeEditor\obj\Debug\DotSpatial.Plugins.ShapeEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Plugins.ToolManager, Version=1.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Plugins.ToolManager\obj\Debug\DotSpatial.Plugins.ToolManager.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Projections, Version=1.9.0.0, Culture=neutral, PublicKeyToken=272632bddd08a38b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Projections\obj\Debug\DotSpatial.Projections.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Projections.Forms, Version=1.9.0.0, Culture=neutral, PublicKeyToken=52099474f11b7ff0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Projections.Forms\obj\Debug\DotSpatial.Projections.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Serialization">
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Serialization\obj\Debug\DotSpatial.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology, Version=1.9.0.0, Culture=neutral, PublicKeyToken=6178c08da7998387, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Symbology\obj\Debug\DotSpatial.Symbology.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology.Forms, Version=1.9.0.0, Culture=neutral, PublicKeyToken=0544cdeefb662382, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Symbology.Forms\obj\Debug\DotSpatial.Symbology.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology.Forms.resources">
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Symbology.Forms\obj\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology.resources">
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Symbology\obj\Debug\zh-CN\DotSpatial.Symbology.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Tools, Version=1.9.0.0, Culture=neutral, PublicKeyToken=6219d88fb4baf469, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Tools\obj\Debug\DotSpatial.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Topology, Version=1.9.0.0, Culture=neutral, PublicKeyToken=a66b5e9434ca3671, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DotSpatial-1.9汉化版\DotSpatial-1.9\Trunk\DotSpatial.Topology\obj\Debug\DotSpatial.Topology.dll</HintPath>
+    </Reference>
+    <Reference Include="GeoAPI, Version=1.7.4.0, Culture=neutral, PublicKeyToken=a1a0da7def465678, processorArchitecture=MSIL">
+      <HintPath>..\packages\GeoAPI.1.7.4\lib\net45\GeoAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.13.0.4001.0\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="NetTopologySuite, Version=1.14.0.0, Culture=neutral, PublicKeyToken=f580a05016ebada1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NetTopologySuite.1.14\lib\net45\NetTopologySuite.dll</HintPath>
+    </Reference>
+    <Reference Include="NetTopologySuite.CoordinateSystems, Version=1.15.1.0, Culture=neutral, PublicKeyToken=f580a05016ebada1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NetTopologySuite.CoordinateSystems.1.15.1\lib\net45\NetTopologySuite.CoordinateSystems.dll</HintPath>
+    </Reference>
+    <Reference Include="PowerCollections, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2573bf8a1bdddcd5, processorArchitecture=MSIL">
+      <HintPath>..\packages\NetTopologySuite.1.14\lib\net45\PowerCollections.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClipPolygonWithPolygon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClipPolygonWithPolygon.Designer.cs">
+      <DependentUpon>ClipPolygonWithPolygon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomTools\AddPolygonFunction.cs" />
+    <Compile Include="CustomTools\DBHelper.cs" />
+    <Compile Include="CustomTools\GetAllLayers.cs" />
+    <Compile Include="CustomTools\AttriIndexProcessing.cs" />
+    <Compile Include="CustomTools\InterruptLineFunction.cs" />
+    <Compile Include="CustomTools\MapFunctionOperating.cs" />
+    <Compile Include="CustomTools\MsSql2008Geometry\CoordinateBuffer.cs" />
+    <Compile Include="CustomTools\MsSql2008Geometry\MsSql2008GeometryReader.cs" />
+    <Compile Include="CustomTools\MsSql2008Geometry\NtsGeometrySink.cs" />
+    <Compile Include="CustomTools\SpatialAnalysis.cs" />
+    <Compile Include="CustomTools\VToRaster.cs" />
+    <Compile Include="ClipPolygonsWithLines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClipPolygonsWithLines.Designer.cs">
+      <DependentUpon>ClipPolygonsWithLines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExtractBoundary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExtractBoundary.Designer.cs">
+      <DependentUpon>ExtractBoundary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InterruptLineWithLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InterruptLineWithLine.Designer.cs">
+      <DependentUpon>InterruptLineWithLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InterruptLineWithPoint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InterruptLineWithPoint.Designer.cs">
+      <DependentUpon>InterruptLineWithPoint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Intersect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Intersect.Designer.cs">
+      <DependentUpon>Intersect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IntersectionBoundary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IntersectionBoundary.Designer.cs">
+      <DependentUpon>IntersectionBoundary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LinkDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LinkDB.Designer.cs">
+      <DependentUpon>LinkDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainForm.Designer.cs">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportWKT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportWKT.Designer.cs">
+      <DependentUpon>ImportWKT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RasterToVertor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RasterToVertor.Designer.cs">
+      <DependentUpon>RasterToVertor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomTools\RTVCore.cs" />
+    <Compile Include="ReverseIntersect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReverseIntersect.Designer.cs">
+      <DependentUpon>ReverseIntersect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SnapSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SnapSetting.Designer.cs">
+      <DependentUpon>SnapSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="VectorToRaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VectorToRaster.Designer.cs">
+      <DependentUpon>VectorToRaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WKTViwer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WKTViwer.Designer.cs">
+      <DependentUpon>WKTViwer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewShapefile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewShapefile.Designer.cs">
+      <DependentUpon>NewShapefile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buffer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buffer.Designer.cs">
+      <DependentUpon>Buffer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Union.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Union.Designer.cs">
+      <DependentUpon>Union.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Erease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Erease.Designer.cs">
+      <DependentUpon>Erease.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\DotSpatialEx.cs" />
+    <Compile Include="Utility\GeometryConverterToDotSpatial.cs" />
+    <Compile Include="Utility\GeometryConverterToGeoAPI.cs" />
+    <EmbeddedResource Include="ClipPolygonsWithLines.resx">
+      <DependentUpon>ClipPolygonsWithLines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClipPolygonWithPolygon.resx">
+      <DependentUpon>ClipPolygonWithPolygon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExtractBoundary.resx">
+      <DependentUpon>ExtractBoundary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InterruptLineWithLine.resx">
+      <DependentUpon>InterruptLineWithLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InterruptLineWithPoint.resx">
+      <DependentUpon>InterruptLineWithPoint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Intersect.resx">
+      <DependentUpon>Intersect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IntersectionBoundary.resx">
+      <DependentUpon>IntersectionBoundary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LinkDB.resx">
+      <DependentUpon>LinkDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainForm.resx">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportWKT.resx">
+      <DependentUpon>ImportWKT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RasterToVertor.resx">
+      <DependentUpon>RasterToVertor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReverseIntersect.resx">
+      <DependentUpon>ReverseIntersect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SnapSetting.resx">
+      <DependentUpon>SnapSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VectorToRaster.resx">
+      <DependentUpon>VectorToRaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WKTViwer.resx">
+      <DependentUpon>WKTViwer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewShapefile.resx">
+      <DependentUpon>NewShapefile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buffer.resx">
+      <DependentUpon>Buffer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Union.resx">
+      <DependentUpon>Union.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Erease.resx">
+      <DependentUpon>Erease.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_eccomerce_-_wallet_3440917.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\topband.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watermark.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watermark_uddi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\无标题.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\snapping.ico" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial130.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial130.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

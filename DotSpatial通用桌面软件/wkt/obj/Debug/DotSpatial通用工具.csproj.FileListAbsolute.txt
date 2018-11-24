@@ -1,0 +1,345 @@
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\SqlServerTypes\x64\SqlServerSpatial130.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\SqlServerTypes\x86\SqlServerSpatial130.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\wkt.exe.config
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\wkt.exe
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\wkt.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Projections.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Tools.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\GeoAPI.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\NetTopologySuite.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\PowerCollections.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Tools.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\GeoAPI.xml
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\NetTopologySuite.xml
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\PowerCollections.xml
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\zh-CN\DotSpatial.Tools.resources.dll
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.ExtractBoundary.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.InterruptLineWithLine.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.InterruptLineWithPoint.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.Intersect.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.IntersectionBoundary.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.LinkDB.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.mainForm.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.ImportWKT.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.RasterToVertor.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.ReverseIntersect.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.VectorToRaster.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.WKTViwer.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.NewShapefile.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.Buffer.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.Union.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.Erease.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.Properties.Resources.resources
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\DotSpatial通用工具.csproj.GenerateResource.cache
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\DotSpatial通用工具.csproj.CoreCompileInputs.cache
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\DotSpatial通用工具.csproj.CopyComplete
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.exe
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.pdb
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.ClipPolygonsWithLines.resources
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Analysis.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Controls.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Data.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Data.Forms.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Extensions.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Modeling.Forms.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Plugins.FindFeature.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Plugins.Measure.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Plugins.ShapeEditor.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Plugins.ToolManager.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Projections.Forms.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Symbology.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Topology.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Analysis.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Controls.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Data.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Data.Forms.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Extensions.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Modeling.Forms.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Plugins.FindFeature.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Plugins.Measure.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Plugins.ShapeEditor.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Plugins.ToolManager.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Projections.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Projections.Forms.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Symbology.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Topology.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\de-DE\DotSpatial.Controls.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\it-IT\DotSpatial.Controls.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\pt-BR\DotSpatial.Controls.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\zh-CN\DotSpatial.Controls.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\zh-CN\DotSpatial.Data.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\de-DE\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\it-IT\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\pt-BR\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\zh-CN\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\de-DE\DotSpatial.Plugins.ShapeEditor.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\zh-CN\DotSpatial.Plugins.ShapeEditor.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\cs\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\de\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\de-DE\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\el\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\it-IT\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\ja-JP\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\lt\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\nl\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\pt\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\pt-BR\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\ro\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\th\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\vi-VN\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\zh-CN\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\de-DE\DotSpatial.Symbology.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\zh-CN\DotSpatial.Symbology.resources.dll
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.SnapSetting.resources
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Symbology.Forms.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Symbology.Forms.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\cs\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\de-DE\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\en-US\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\it\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\it-IT\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\pt-BR\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Symbology.resources.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Serialization.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Serialization.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Mono.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Mono.pdb
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\DotSpatial通用工具.csprojAssemblyReference.cache
+G:\WKT\wkt2018-8-22\wkt\obj\Debug\wkt.ClipPolygonWithPolygon.resources
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Compatibility.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\DotSpatial.Compatibility.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\NetTopologySuite.CoordinateSystems.dll
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\NetTopologySuite.CoordinateSystems.pdb
+G:\WKT\wkt2018-8-22\wkt\bin\Debug\NetTopologySuite.CoordinateSystems.xml
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\SqlServerTypes\x64\SqlServerSpatial130.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\SqlServerTypes\x86\SqlServerSpatial130.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\wkt.exe.config
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\wkt.exe
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\wkt.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Analysis.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Compatibility.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Controls.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Data.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Data.Forms.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Extensions.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Modeling.Forms.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Mono.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Plugins.FindFeature.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Plugins.Measure.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Plugins.ShapeEditor.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Plugins.ToolManager.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Projections.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Projections.Forms.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Serialization.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Symbology.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Symbology.Forms.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Symbology.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Tools.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Topology.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\GeoAPI.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\NetTopologySuite.CoordinateSystems.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\NetTopologySuite.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\PowerCollections.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Analysis.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Compatibility.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Controls.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Data.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Data.Forms.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Extensions.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Modeling.Forms.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Mono.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Plugins.FindFeature.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Plugins.Measure.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Plugins.ShapeEditor.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Plugins.ToolManager.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Projections.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Projections.Forms.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Serialization.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Symbology.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Symbology.Forms.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Tools.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\DotSpatial.Topology.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\GeoAPI.xml
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\NetTopologySuite.xml
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\NetTopologySuite.CoordinateSystems.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\NetTopologySuite.CoordinateSystems.xml
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\PowerCollections.xml
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\de-DE\DotSpatial.Controls.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\it-IT\DotSpatial.Controls.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\pt-BR\DotSpatial.Controls.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\zh-CN\DotSpatial.Controls.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\zh-CN\DotSpatial.Data.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\de-DE\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\it-IT\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\pt-BR\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\zh-CN\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\de-DE\DotSpatial.Plugins.ShapeEditor.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\zh-CN\DotSpatial.Plugins.ShapeEditor.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\cs\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\de\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\de-DE\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\el\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\it-IT\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\ja-JP\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\lt\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\nl\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\pt\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\pt-BR\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\ro\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\th\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\vi-VN\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\zh-CN\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\de-DE\DotSpatial.Symbology.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\zh-CN\DotSpatial.Symbology.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\cs\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\de-DE\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\en-US\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\it\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\it-IT\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\pt-BR\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\bin\Debug\zh-CN\DotSpatial.Tools.resources.dll
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.ClipPolygonsWithLines.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.ClipPolygonWithPolygon.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.ExtractBoundary.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.InterruptLineWithLine.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.InterruptLineWithPoint.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.Intersect.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.IntersectionBoundary.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.LinkDB.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.mainForm.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.ImportWKT.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.RasterToVertor.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.ReverseIntersect.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.SnapSetting.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.VectorToRaster.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.WKTViwer.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.NewShapefile.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.Buffer.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.Union.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.Erease.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.Properties.Resources.resources
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\DotSpatial通用工具.csproj.GenerateResource.cache
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\DotSpatial通用工具.csproj.CoreCompileInputs.cache
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\DotSpatial通用工具.csproj.CopyComplete
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.exe
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\wkt.pdb
+G:\WKT\wkt2018-8-22 - 副本\wkt\obj\Debug\DotSpatial通用工具.csprojAssemblyReference.cache
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\SqlServerTypes\x64\SqlServerSpatial130.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\SqlServerTypes\x86\SqlServerSpatial130.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\wkt.exe.config
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\wkt.exe
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\wkt.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\GeoAPI.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\NetTopologySuite.CoordinateSystems.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\NetTopologySuite.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\PowerCollections.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Analysis.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Compatibility.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Controls.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Data.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Data.Forms.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Extensions.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Modeling.Forms.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Mono.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Plugins.FindFeature.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Plugins.Measure.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Plugins.ShapeEditor.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Plugins.ToolManager.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Projections.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Projections.Forms.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Serialization.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Symbology.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Symbology.Forms.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Tools.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\DotSpatial.Topology.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\GeoAPI.xml
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\NetTopologySuite.xml
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\NetTopologySuite.CoordinateSystems.pdb
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\NetTopologySuite.CoordinateSystems.xml
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\PowerCollections.xml
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\de-DE\DotSpatial.Controls.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\it-IT\DotSpatial.Controls.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\pt-BR\DotSpatial.Controls.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\zh-CN\DotSpatial.Controls.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\zh-CN\DotSpatial.Data.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\de-DE\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\it-IT\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\pt-BR\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\zh-CN\DotSpatial.Plugins.Measure.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\de-DE\DotSpatial.Plugins.ShapeEditor.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\zh-CN\DotSpatial.Plugins.ShapeEditor.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\cs\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\de\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\de-DE\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\el\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\it-IT\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\ja-JP\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\lt\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\nl\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\pt\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\pt-BR\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\ro\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\th\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\vi-VN\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\zh-CN\DotSpatial.Projections.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\de-DE\DotSpatial.Symbology.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\zh-CN\DotSpatial.Symbology.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\cs\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\de-DE\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\en-US\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\it\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\it-IT\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\pt-BR\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\bin\Debug\zh-CN\DotSpatial.Tools.resources.dll
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\DotSpatial通用工具.csprojAssemblyReference.cache
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.ClipPolygonsWithLines.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.ClipPolygonWithPolygon.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.ExtractBoundary.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.InterruptLineWithLine.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.InterruptLineWithPoint.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.Intersect.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.IntersectionBoundary.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.LinkDB.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.mainForm.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.ImportWKT.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.RasterToVertor.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.ReverseIntersect.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.SnapSetting.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.VectorToRaster.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.WKTViwer.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.NewShapefile.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.Buffer.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.Union.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.Erease.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.Properties.Resources.resources
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\DotSpatial通用工具.csproj.GenerateResource.cache
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\DotSpatial通用工具.csproj.CoreCompileInputs.cache
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\DotSpatial通用工具.csproj.CopyComplete
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.exe
+G:\WKT\DotSpatial通用桌面软件\DotSpatial通用桌面软件\wkt\obj\Debug\wkt.pdb
